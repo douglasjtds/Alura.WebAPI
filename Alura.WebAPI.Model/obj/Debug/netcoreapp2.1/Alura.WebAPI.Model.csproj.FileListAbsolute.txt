@@ -1,7 +1,6 @@
 D:\Users\douglasjtds\Projects\AluraWebAPI\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
 D:\Users\douglasjtds\Projects\AluraWebAPI\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 D:\Users\douglasjtds\Projects\AluraWebAPI\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
-D:\Users\douglasjtds\Projects\AluraWebAPI\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csprojAssemblyReference.cache
 D:\Users\douglasjtds\Projects\AluraWebAPI\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
 D:\Users\douglasjtds\Projects\AluraWebAPI\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
 D:\Users\douglasjtds\Projects\AluraWebAPI\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
